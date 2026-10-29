@@ -193,7 +193,7 @@ The project also showed me how data preparation, exploratory analysis, and model
 ## 6. Repository Files
 
 ```text
-Applied Forecasting Methods/
+Applied_Forecasting_Methods/
 ├── README.md
 ├── MPA_PART1.ipynb
 ├── MPA_PART2.ipynb
@@ -221,5 +221,3 @@ This project was completed as part of the course assessment and represents my ac
 Parts 2 and 3 were completed in collaboration with a fellow student, as indicated in the original notebooks.
 
 ---
-
-**Data Source:** [Open Bicycle Data](https://www.bicycle-data.de/bicycles-data/)
